@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Cybersecurity Monitoring & Detection Lab]()
+  - [Cybersecurity Monitoring & Detection Lab (In Progress)]()
 
 <h2>📄 Certificates</h2>
 
