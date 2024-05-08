@@ -1,8 +1,8 @@
 <h1>Hi, I'm Jacob!</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cloud Engineering AWS Projects:</h2>
 
-  - [Cybersecurity Monitoring & Detection Lab (In Progress)](https://github.com/Jacobbetancourt1/Cybersecurity-Detection-Monitoring-Lab)
+  - [Git & Architecture](https://github.com/Jacobbetancourt1/Cybersecurity-Detection-Monitoring-Lab)
 
 <h2>📄 Certificates</h2>
 
