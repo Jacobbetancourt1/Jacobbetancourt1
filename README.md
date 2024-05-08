@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud Engineering AWS Projects:</h2>
 
-  - [Git & Architecture](https://github.com/Jacobbetancourt1/Cybersecurity-Detection-Monitoring-Lab)
+  - [Git & Architecture](https://github.com/Jacobbetancourt1/Git-and-Architecture-Lab)
 
 <h2>📄 Certificates</h2>
 
