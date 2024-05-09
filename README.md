@@ -4,7 +4,7 @@
 
   - [Git & Architecture](https://github.com/Jacobbetancourt1/Git-and-Architecture-Lab)
   - [System Design Applications - In Progress](https://github.com/Jacobbetancourt1/System-Design-Applications)
-  - [Linux and Bash - In Progress]()
+  - [Linux and Bash - In Progress](https://github.com/Jacobbetancourt1/Linux-and-Bash)
   - [AWS Fundamentals - In Progress]()
 
 <h2>📄 Certificates</h2>
