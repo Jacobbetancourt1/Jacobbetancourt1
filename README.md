@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jacob!</h1>
 
-<h2>👨‍💻 Cloud Engineering AWS Projects:</h2>
+<h2>👨‍💻 AWS Projects:</h2>
 
   - [Git & Architecture](https://github.com/Jacobbetancourt1/Git-and-Architecture-Lab)
 
