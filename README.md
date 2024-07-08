@@ -2,12 +2,13 @@
 
 <h2>👨‍💻 Azure Projects</h2>
 
+Coming soon
 <h2>👨‍💻 AWS Projects:</h2>
 
   - [Git & Architecture](https://github.com/Jacobbetancourt1/Git-and-Architecture-Lab)
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
-
+coming soon
 <h2>📄 Certificates</h2>
 
 - [Blue Team Level 1](https://www.credly.com/badges/2ded163f-b653-4a7e-b4be-5d6ad90b16e5/public_url)
