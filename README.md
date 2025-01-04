@@ -11,6 +11,7 @@ Coming soon
 coming soon
 <h2>📄 Certificates</h2>
 
+- [GIAC Industrial Cyber Security Professional](https://www.credly.com/badges/49f1fbe4-90c3-4c07-ad05-0b8a8583725e)
 - [GIAC Certified Incident Handler](https://www.credly.com/badges/5c9cdc89-d8fb-4258-bf9a-c00736b9a482/public_url)
 - [Blue Team Level 1](https://www.credly.com/badges/2ded163f-b653-4a7e-b4be-5d6ad90b16e5/public_url)
 - [CCNA](https://www.credly.com/badges/32e00f8c-cf8e-4c45-ae6c-5b769ad7bc84/linked_in_profile)
