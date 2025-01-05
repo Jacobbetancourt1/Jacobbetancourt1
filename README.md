@@ -10,7 +10,8 @@ Coming soon
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
-- [ICS Security with Purdue Model](https://github.com/Jacobbetancourt1/ICS-Security-with-Purdue-Model)
+- ⚙️
+[ICS Security with Purdue Model](https://github.com/Jacobbetancourt1/ICS-Security-with-Purdue-Model)
 
 <h2>📄 Certificates</h2>
 
