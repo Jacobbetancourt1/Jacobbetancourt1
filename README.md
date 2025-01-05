@@ -3,12 +3,15 @@
 <h2>👨‍💻 Azure Projects</h2>
 
 Coming soon
+
 <h2>👨‍💻 AWS Projects:</h2>
 
-  - [Git & Architecture](https://github.com/Jacobbetancourt1/Git-and-Architecture-Lab)
+- [Git & Architecture](https://github.com/Jacobbetancourt1/Git-and-Architecture-Lab)
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
-coming soon
+
+- [ICS Security with Purdue Model](https://github.com/Jacobbetancourt1/ICS-Security-with-Purdue-Model)
+
 <h2>📄 Certificates</h2>
 
 - [GIAC Industrial Cyber Security Professional](https://www.credly.com/badges/49f1fbe4-90c3-4c07-ad05-0b8a8583725e)
@@ -21,24 +24,8 @@ coming soon
 - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000558552/xycpgjrm7n)
 - [CompTIA A+](https://www.credly.com/badges/f8a6029e-8554-49be-bef2-71a84aa614d8/linked_in_profile)
 
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/jb-80ab46164/
-
-<!--
-**Jacobbetancourt1/Jacobbetancourt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
