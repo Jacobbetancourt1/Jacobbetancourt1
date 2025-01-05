@@ -1,10 +1,10 @@
 <h1>Hi, I'm Jacob!</h1>
 
-<h2>👨‍💻 Azure Projects</h2>
+<h2>🟦 Azure Projects</h2>
 
 Coming soon
 
-<h2>👨‍💻 AWS Projects:</h2>
+<h2>🟧 AWS Projects:</h2>
 
 - [Git & Architecture](https://github.com/Jacobbetancourt1/Git-and-Architecture-Lab)
 
